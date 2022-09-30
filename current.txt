@@ -1,0 +1,1 @@
+"X Motor: 0 mm |Y Motor: 0 mm | Theta Motor: 0 degrees"

@@ -1,0 +1,1 @@
+{"Y": "-1", "Reset": "-1", "Distance X": "0", "Distance Y": "50", "Angle": "0"}
